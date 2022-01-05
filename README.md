@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm John 👋
 
 <!--
 **johnlovesdata/johnlovesdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Data Engineer with experience in the Modern Data Stack (think Fivetran/Stitch, dbt and Snowflake), and several years' experience in analytics more broadly as an analyst in Retail and Ad Tech. My analytics superpowers are SQL and Python.
+
+🌱 I’m currently learning about CI/CD best practices.
